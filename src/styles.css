@@ -1,0 +1,81 @@
+body {
+  background:#fbdcc4;
+}
+
+
+.container {
+border:transparent;
+max-width: 700px;
+min-width:500px;
+margin: 0 auto;
+display:block;
+font-family: 'Playfair Display', serif;
+}
+.form.control.hover {
+  background-color: #31112c;
+  color:#fbdcc4;
+}
+
+.col {
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  text-align:center;
+  color:#31112c;
+}
+.btn {
+  color:#31112c;
+  border-color: #31112c;
+}
+button {
+  color:#31112c;
+  border-color: #31112c;
+  background: transparent;
+  padding: 10px, 20px;
+
+}
+
+.today-card-title {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 50px;
+  color: #7d0633;
+}
+.card {
+  margin: 0 auto;
+  padding: 6px;
+  text-align:center;
+  border-color: transparent;
+  background:transparent;
+}
+h6 {
+  font-style: italic;
+}
+
+.todayIcon {
+font-size: 50px;
+color:#31112c;
+text-align:center;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0 50px 0 10px;
+  margin: 0;
+  text-align: right;
+  vertical-align: center;
+  color: #7d0633;
+}
+
+
+.card-body {
+  text-align: center;
+  padding: 0px;
+  font-size: 50px;
+margin: 0 auto;
+line-height:40px;
+color:#f2a07b;
+}
