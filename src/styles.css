@@ -79,3 +79,9 @@ margin: 0 auto;
 line-height:40px;
 color:#f2a07b;
 }
+ 
+.source {
+font-family: 'Playfair Display';
+font-size: 15px;
+color: #31112c;
+ }
